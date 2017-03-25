@@ -14,7 +14,7 @@ public class SwAssignment {
     /**
      * @param args the command line arguments
      */
-    int x=0;
+    int a=0;
     public static void main(String[] args) {
         // TODO code application logic here
     }
